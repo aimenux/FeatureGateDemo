@@ -1,3 +1,5 @@
+[![.NET](https://github.com/aimenux/FeatureGateDemo/actions/workflows/ci.yml/badge.svg)](https://github.com/aimenux/FeatureGateDemo/actions/workflows/ci.yml)
+
 # FeatureGateDemo
 ```
 Enabling or disabling route actions using FeatureGate attribute
